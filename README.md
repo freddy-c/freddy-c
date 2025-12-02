@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Freddy, a recent **Computer Science BSc graduate (First Class Honours)** from [Durham University](https://durham.ac.uk/), passionate about technology, software engineering, and continuous learning. I love building efficient, reliable systems and thinking deeply about algorithms and distributed computing.
+I'm Freddy, a recent **Computer Science BSc graduate** from [Durham University](https://durham.ac.uk/), passionate about technology, software engineering, and continuous learning. I love building efficient, reliable systems and thinking deeply about algorithms and distributed computing.
 
 - 🔭 **Recently completed:** My independent research project,  
   **"Optimizing Round Complexity of Energy-Efficient Distributed MST Algorithms"**,  

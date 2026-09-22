@@ -1,24 +1,22 @@
-Hi there 👋
+# Hi, I'm Freddy 👋
 
-I'm Freddy, a recent **Computer Science BSc graduate** from [Durham University](https://durham.ac.uk/), passionate about technology, software engineering, and continuous learning. I love building efficient, reliable systems and thinking deeply about algorithms and distributed computing.
+I'm a software engineer and MSc Advanced Computer Science student at the [University of Oxford](https://www.ox.ac.uk/), with a BSc in Computer Science from [Durham University](https://www.durham.ac.uk/). I enjoy designing reliable systems, particularly where backend engineering, automation and AI meet real-world data.
 
-- 🔭 **Recently completed:** My independent research project, **"Optimizing Round Complexity of Energy-Efficient Distributed MST Algorithms"**, including an implementation repo: [Awake Complexity of Distributed Minimum Spanning Tree](https://github.com/freddy-c/Awake-Complexity-of-Distributed-Minimum-Spanning-Tree).
+## Experience
 
-- 🌱 **Academic interests:** Cryptography, Algorithmic Game Theory, Deep Learning, and Distributed Algorithms — explored through my final-year modules and projects.
+- **Software Engineer, Ampere Analysis (2026)** — Built Python data collection pipelines for streaming catalogues and adverts captured from physical devices. Developed LLM-driven navigation,
+state-machine automation and OpenCV/audio detection, and refactored core systems to make them easier to extend and diagnose.
+- **Freelance Web Developer** — Designed, built and maintained WordPress sites for local businesses, from initial consultation through deployment and ongoing support.
 
-- 👨‍💻 **Experience:**
-  - Freelance Web Developer – building and maintaining marketing sites for local businesses in WordPress, from initial consultation and design through to deployment and ongoing support.
-  - Full-Stack Developer @ NGen Group – developed interactive real-time analytics dashboards using React, Next.js, Tailwind CSS, and an ASP.NET Core API, optimising queries over large PostgreSQL/TimescaleDB time-series datasets for fast visualisations.
+## Research and projects
 
-- 🎯 **Projects:**  
-  - [Shortest Vector Problem Solver](https://github.com/freddyc2003/svp) – experimentation with lattice-based problems  
-  - [Awake Complexity of Distributed Minimum Spanning Tree](https://github.com/freddy-c/Awake-Complexity-of-Distributed-Minimum-Spanning-Tree) – research-driven distributed algorithms project
-  - [Spray Application Calculator](https://github.com/freddy-c/spray-calculator) – full-stack React/Next.js/TypeScript app with PostgreSQL and Prisma — a golf course spray application calculator for managing equipment settings, nozzle configurations, and treatment area planning
+- [Awake Complexity of Distributed Minimum Spanning Tree](https://github.com/freddy-c/Awake-Complexity-of-Distributed-Minimum-Spanning-Tree) — Code for my independent research project on the round complexity of energy-efficient distributed MST algorithms.
+- [Shortest Vector Problem Solver](https://github.com/freddyc2003/svp) — Experiments with lattice-based problems.
+- [Spray Application Calculator](https://github.com/freddy-c/spray-calculator) — A React, Next.js and TypeScript application using PostgreSQL and Prisma to plan golf-course spray treatments.
 
-- 💬 **Ask me about:**  
-  Software engineering, distributed algorithms, algorithmic optimisation, or how to balance focused work with outdoor fun (I've also worked as a **high ropes instructor** and love being outside!).
+I'm also interested in cryptography, algorithmic game theory and distributed algorithms. Away from a screen, I enjoy being outdoors and have worked as a high ropes instructor.
 
-## 📫 How to reach me
+## Get in touch
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/freddy-c)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/freddy-c)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=mail.ru&logoColor=white)](mailto:freddy@fcunningham.co.uk)

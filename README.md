@@ -1,6 +1,6 @@
 # Hi, I'm Freddy 👋
 
-I'm a software engineer and MSc Advanced Computer Science student at the [University of Oxford](https://www.ox.ac.uk/), with a BSc in Computer Science from [Durham University](https://www.durham.ac.uk/). I enjoy designing reliable systems, particularly where backend engineering, automation and AI meet real-world data.
+I'm a software engineer and MSc Advanced Computer Science student at the [University of Oxford](https://www.ox.ac.uk/), with a BSc in Computer Science from [Durham University](https://www.durham.ac.uk/).
 
 ## Experience
 
